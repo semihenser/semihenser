@@ -1,5 +1,7 @@
-## Hi I'm Semih  :vulcan_salute:
-### I can easly describe myself as an ML enthusiast and electronics engineering student.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Semih!;&font=Fira%20Code&center=true&width=440&height=45&color=f35d8e&vCenter=true&size=30">
+</p>
+
 ![Semih Enser's github stats](https://github-readme-stats.vercel.app/api?username=semihenser&show_icons=true&theme=radical)
 ![snake svg](https://github.com/semihenser/semihenser/blob/output/github-contribution-grid-snake.svg)
 <img src="hxttps://github.com/semihenser/semihenser/blob/main/images.jpg" width="800"> 
