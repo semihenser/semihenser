@@ -4,7 +4,7 @@
 
 ![Semih Enser's github stats](https://github-readme-stats.vercel.app/api?username=semihenser&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihenser)](https://github.com/root27/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihenser)]
 
 
 ![snake svg](https://github.com/semihenser/semihenser/blob/output/github-contribution-grid-snake.svg)
