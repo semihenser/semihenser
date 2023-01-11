@@ -17,7 +17,7 @@
 <a href="https://twitter.com/semihenser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semihenser" height="30" width="40" /></a>
   
  
-![Semih Enser's github stats](https://github-readme-stats.vercel.app/api?username=semihenser&show_icons=true&theme=radical)
+<!--![Semih Enser's github stats](https://github-readme-stats.vercel.app/api?username=semihenser&show_icons=true&theme=radical)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihenser)]-->
 
